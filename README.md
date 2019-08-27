@@ -1,5 +1,5 @@
 # ChessSet
-A Low-Poly Chess Set from the Complete Blender Creator course
+A Chess Set
 
 ## Design Specification
 We will cover what we expect with regards to board and piece sizes. For this project, we will follow the USCF guidelines for piece and board sizes for simplicity.
