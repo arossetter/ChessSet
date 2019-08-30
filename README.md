@@ -1,11 +1,11 @@
-# ChessSet
-A Chess Set
+# Blender Modeled Chess Set
+![Set Render](/Scenes/BoardRender.png)
 
 ## Design Specification
 We will cover what we expect with regards to board and piece sizes. For this project, we will follow the USCF guidelines for piece and board sizes for simplicity.
 
 ### Piece dimensions
-King: 3.75" x 1.75"
+King: 4.0" x 1.75"
 Queen: x 1.5"
 Bishop: x 1.5"
 Knight: x 1.5"
