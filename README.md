@@ -1,5 +1,5 @@
 # Blender Modeled Chess Set
-![Set Render](/Scenes/Ne4!!.png)
+![Set Render](/Scenes/Na4!!.png)
 
 ## Design Specification
 We will cover what we expect with regards to board and piece sizes. For this project, we will follow the USCF guidelines for piece and board sizes for simplicity.
