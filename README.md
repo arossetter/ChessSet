@@ -1,5 +1,5 @@
 # ChessSet
-![Board Render](/Scenes/BoardRender.png)
+A Chess Set
 
 ## Design Specification
 We will cover what we expect with regards to board and piece sizes. For this project, we will follow the USCF guidelines for piece and board sizes for simplicity.
